@@ -2,6 +2,7 @@
 .project
 *.log
 .idea
+.idea/
 .settings/
 bin/
 target/
