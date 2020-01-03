@@ -15,3 +15,5 @@ HELP.md
 mvnw
 mvnw.cmd
 .gradle/
+out/
+build/
