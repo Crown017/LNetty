@@ -49,6 +49,10 @@ public class PlainNioServer {
                     if (currentKey.isWritable()){
 
                     }
+                    //
+                    if (currentKey.isReadable()){
+
+                    }
 
                 }catch (Exception e){
                     e.printStackTrace();
